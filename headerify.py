@@ -1,3 +1,8 @@
+###########################################
+#### Copyright (C) 2017 Brian R. Groenke ###
+#### See LICENSE.txt for terms of use ######
+############################################
+
 import argparse
 import os
 import sys
